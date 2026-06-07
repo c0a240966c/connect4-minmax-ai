@@ -131,6 +131,14 @@ Move 2: Player 2 (Two-focus AI) chose column 6 (20)
 | | | | | |1| |
 ---------------
  1 2 3 4 5 6 7
+
+...
+
+Game over: Two-focus AI wins
+Starting game number 2 ...
+
+...
+
 ```
  
 各手について、選択した列と評価値を記録し、対戦結果をログファイルとして保存します。
